@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=SBoDog (Root)
+Comment=Run sbodog script as root
+Exec=/usr/local/bin/run_sbodog.sh
+Icon=/usr/share/pixmaps/sbodog/icons/sbodog-48.png
+Terminal=false
+Type=Application
+Categories=System;Utility;
