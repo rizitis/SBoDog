@@ -1,14 +1,14 @@
 ![](./app.png)
 
 # SBoDog
-*sbodog is a PyQt5  [sbopkg](https://sbopkg.org/) plugin. We can name it as slpkg-gui...but thats not true.*<br>
-*Reason for using sbodog is if you like a nice gui for sbopkg and SlackBuilds from [SlackBuilds.org](https://github.com/SlackBuildsOrg/slackbuilds.git) or [ponce](https://github.com/Ponce/slackbuilds) repositories*<br>
-I wrote sbodog for fan.
+*sbodog is a PyQt5  [sbopkg](https://sbopkg.org/) plugin. We can name it as sbopkg-gui...but thats not true.*<br>
+*Reason for using sbodog is if you like a nice sbopkg gui when building SlackBuilds from [SlackBuilds.org](https://github.com/SlackBuildsOrg/slackbuilds.git) or [ponce](https://github.com/Ponce/slackbuilds) repositories*<br>
+I wrote sbodog for fan after [eeel](https://github.com/rizitis/Eeel).
 
 ![sbodog](./sbodog-1.png)
 
 ### Install
-You can find a SlackBuild (when it`ll be ready) [here](https://github.com/rizitis/One4All_SlackBuild/sbodog)
+You can find a sbodog.SlackBuild (when it`ll be ready) [here](https://github.com/rizitis/One4All_SlackBuild/sbodog)
 
 ![sbodog](./sbodog-3.png)
 
