@@ -8,7 +8,7 @@ I wrote sbodog for fan after [eeel](https://github.com/rizitis/Eeel).
 ![sbodog](./sbodog-1.png)
 
 ### Install
-You can find a sbodog.SlackBuild (when it`ll be ready) [here](https://github.com/rizitis/One4All_SlackBuild/sbodog)
+You can find a sbodog.SlackBuild (when it`ll be ready) [here](https://github.com/rizitis/One4All_SlackBuild/tree/main/sbodog)
 
 ![sbodog](./sbodog-3.png)
 
